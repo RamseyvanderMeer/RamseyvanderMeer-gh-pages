@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "226ab6944afb4b8c5b690c68dcb079d3",
+    "revision": "e50f64ccb2c4aaa23f7a7af822157195",
     "url": "/RamseyvanderMeer.github.io/index.html"
   },
   {
-    "revision": "b24985e4c2361c3b5897",
+    "revision": "59b7d745662a25c2dcc5",
     "url": "/RamseyvanderMeer.github.io/static/css/main.b9e9cb0c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RamseyvanderMeer.github.io/static/js/2.66e44d9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b24985e4c2361c3b5897",
-    "url": "/RamseyvanderMeer.github.io/static/js/main.1f8188a7.chunk.js"
+    "revision": "59b7d745662a25c2dcc5",
+    "url": "/RamseyvanderMeer.github.io/static/js/main.cfbb1083.chunk.js"
   },
   {
     "revision": "73173f02aac9d2c9086b",
