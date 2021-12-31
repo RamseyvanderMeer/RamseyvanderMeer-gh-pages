@@ -16,7 +16,7 @@ export default function Background() {
                 <p className="background__card__name" >Ramsey van der Meer</p>
                 <img alt="ramsey" className="background__card__profile" src={ramseyHead} />
                 <p className="background__card__body">
-                    Hello! My name is Ramsey van der Meer, and I am a senior at Menlo Atherton High School. Outside of school I am passionate about photography, computer science, hardware, the outdoors, and finance.
+                    Hello! My name is Ramsey van der Meer, and I am a freshman at University of Illinois Urbana Champaign. Outside of school I am passionate about photography, computer science, hardware, the outdoors, and finance.
                 </p>
                 <div className="background__icon-container">
                     <a alt="linkedin" className="background__icon-padding" href="http://www.linkedin.com/in/ramseyvandermeer"><LinkedInIcon className="background__icon" /></a>
