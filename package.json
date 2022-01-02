@@ -1,6 +1,6 @@
 {
   "homepage": "http://RamseyvanderMeer.github.io/ramseyvdm",
-  "name": "Ramsey van der Meer",
+  "name": "ramseyvdm",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
